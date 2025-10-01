@@ -163,7 +163,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-semibold mb-1">GitHub</h4>
                     <a 
-                      href="https://github.com/syedtaqi" 
+                      href="https://github.com/taqikazm00" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-blue-100 hover:text-white transition-colors"
