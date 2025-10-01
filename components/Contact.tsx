@@ -168,7 +168,7 @@ export default function Contact() {
                       rel="noopener noreferrer"
                       className="text-blue-100 hover:text-white transition-colors"
                     >
-                      github.com/syedtaqi
+                      github.com/taqikazm00
                     </a>
                   </div>
                 </div>
