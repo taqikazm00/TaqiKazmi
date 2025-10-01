@@ -94,7 +94,7 @@ export default function Hero() {
             variants={itemVariants}
             className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6"
           >
-            Hi, I'm{" "}
+            Hi, I am{" "}
             <motion.span
               className="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent inline-block"
               animate={{

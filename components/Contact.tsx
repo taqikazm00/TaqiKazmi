@@ -80,7 +80,7 @@ export default function Contact() {
             variants={fadeInUp}
             className="text-center text-gray-600 dark:text-gray-400 mb-12 max-w-2xl mx-auto"
           >
-            I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+            I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
           </motion.p>
 
           <div className="max-w-4xl mx-auto">
@@ -270,7 +270,7 @@ export default function Contact() {
                     animate={{ opacity: 1, y: 0 }}
                     className="p-4 bg-green-100 dark:bg-green-900/30 border border-green-500 rounded-lg text-green-700 dark:text-green-400 text-center"
                   >
-                    ✓ Message sent successfully! I'll get back to you soon.
+                    ✓ Message sent successfully! I will get back to you soon.
                   </motion.div>
                 )}
 
