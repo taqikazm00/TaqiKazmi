@@ -25,7 +25,7 @@ export default function Footer() {
             <h4 className="text-lg font-semibold mb-4">Connect With Me</h4>
             <div className="flex gap-4">
               <a
-                href="https://github.com/syedtaqi"
+                href="https://github.com/taqikazm00"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -34,7 +34,7 @@ export default function Footer() {
                 <Github size={24} />
               </a>
               <a
-                href="https://github.com/taqikazm00"
+                href="https://www.linkedin.com/in/taqi-kazmi-828075213"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"

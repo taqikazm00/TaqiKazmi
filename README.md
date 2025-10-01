@@ -154,7 +154,7 @@ This project is open source and available under the MIT License.
 
 ## 🤝 Connect
 
-- **GitHub**: [github.com/syedtaqi](https://github.com/syedtaqi)
+- **GitHub**: [github.com/syedtaqi](https://github.com/taqikazm00)
 - **LinkedIn**: [linkedin.com/in/syedtaqi](https://linkedin.com/in/syedtaqi)
 - **Email**: syedtaqi@example.com
 
