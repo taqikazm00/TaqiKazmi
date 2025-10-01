@@ -177,7 +177,7 @@ export default function Contact() {
                   <MapPin className="mt-1 flex-shrink-0" size={24} />
                   <div>
                     <h4 className="font-semibold mb-1">Location</h4>
-                    <p className="text-blue-100">Pakistan - Available for remote opportunities</p>
+                    <p className="text-blue-100">Pakistan - Available for both remote and onsite opportunities</p>
                   </div>
                 </div>
               </div>
