@@ -154,7 +154,7 @@ export default function Hero() {
             className="flex gap-6 justify-center"
           >
             {[
-              { href: "https://github.com/syedtaqi", Icon: Github },
+              { href: "https://github.com/taqikazm00", Icon: Github },
               { href: "https://www.linkedin.com/in/taqi-kazmi-828075213/", Icon: Linkedin },
               { href: "mailto:taqikazmi48@gmail.com", Icon: Mail }
             ].map(({ href, Icon }, index) => (
