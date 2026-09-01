@@ -18,15 +18,17 @@ export default function Skills() {
       category: "Core Technologies",
       skills: [
         { name: "JavaScript", level: 88 },
+        { name: "TypeScript", level: 82 },
         { name: "HTML/CSS", level: 92 },
-        { name: "Web Development", level: 90 },
       ]
     },
     {
-      category: "Backend & Integration",
+      category: "Backend & Database",
       skills: [
-        { name: "API Integrations", level: 85 },
-        { name: "Java", level: 75 },
+        { name: "PHP", level: 86 },
+        { name: "Laravel", level: 84 },
+        { name: "Python", level: 80 },
+        { name: "API Integrations", level: 88 },
       ]
     }
   ];
@@ -37,15 +39,18 @@ export default function Skills() {
     "React Native",
     "JavaScript",
     "TypeScript",
+    "PHP",
+    "Laravel",
+    "Python",
     "HTML5",
     "CSS3",
     "Tailwind CSS",
     "API Integration",
     "RESTful APIs",
-    "Java",
     "Git",
     "Responsive Design",
-    "UI/UX"
+    "UI/UX",
+    "MySQL"
   ];
 
   return (

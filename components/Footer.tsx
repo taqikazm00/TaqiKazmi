@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <h3 className="text-2xl font-bold mb-4">Syed Muhammad Taqi Kazmi</h3>
             <p className="text-gray-400">
-              Front-End Developer passionate about creating exceptional digital experiences
+              Full Stack Developer passionate about building scalable digital experiences and impactful solutions
             </p>
           </div>
           <div>

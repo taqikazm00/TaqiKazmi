@@ -86,7 +86,7 @@ export default function Hero() {
               transition={{ type: "spring", stiffness: 400 }}
             >
               <Sparkles size={16} className="text-blue-600" />
-              <span>Available for Frontend Opportunities</span>
+              <span>Available for Full Stack Opportunities</span>
             </motion.div>
           </motion.div>
 
@@ -115,15 +115,15 @@ export default function Hero() {
             variants={itemVariants}
             className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-4 font-semibold"
           >
-            Passionate Front-End Developer
+            Full Stack Developer
           </motion.p>
 
           <motion.p
             variants={itemVariants}
             className="text-lg text-gray-600 dark:text-gray-400 mb-12 max-w-2xl mx-auto"
           >
-            Specializing in React.js, Angular, and React Native with 7+ months of experience
-            building responsive, user-friendly web and mobile applications.
+            Specializing in React.js, Angular, PHP, Laravel, Python, and React Native with 2+ years of experience
+            building responsive, scalable, and user-friendly web and mobile applications.
           </motion.p>
           
           <motion.div

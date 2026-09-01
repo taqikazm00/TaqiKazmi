@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Portfolio | Syed Muhammad Taqi Kazmi",
-  description: "Passionate Front-End Developer specializing in React.js, Angular, React Native, and API Integrations",
+  description: "Full Stack Developer with 2+ years of experience in React.js, Angular, PHP, Laravel, Python, React Native, and API integrations.",
 };
 
 export default function RootLayout({

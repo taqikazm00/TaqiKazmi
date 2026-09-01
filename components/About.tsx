@@ -8,17 +8,17 @@ export default function About() {
     {
       icon: "🔹",
       title: "Core Skills",
-      description: "React.js, JavaScript, HTML, CSS, API Integration, React Native"
+      description: "React.js, Angular, JavaScript, TypeScript, PHP, Laravel, Python, API Integration, React Native"
     },
     {
       icon: "🔹",
       title: "Experience",
-      description: "Developed small-scale websites as an intern, gaining real-world exposure to front-end development"
+      description: "Full stack developer with 2+ years of experience building scalable web and mobile applications"
     },
     {
       icon: "🔹",
       title: "Passionate About",
-      description: "Creating seamless user experiences, optimizing performance, and learning new technologies"
+      description: "Designing seamless user experiences, building robust backends, and learning emerging technologies"
     }
   ];
 
@@ -67,19 +67,28 @@ export default function About() {
                 viewport={{ once: true }}
                 className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6"
               >
-                ✨ <strong>Passionate Front-End Developer</strong> with 7+ months of experience specializing in 
+                ✨ <strong>Full Stack Developer</strong> with 2+ years of experience building modern web applications using 
                 <motion.span
                   className="text-blue-600 dark:text-blue-400 font-semibold"
                   whileHover={{ scale: 1.05 }}
                   style={{ display: "inline-block" }}
-                > React.js</motion.span> and 
+                > React.js</motion.span>, 
                 <motion.span
                   className="text-red-600 dark:text-red-400 font-semibold"
                   whileHover={{ scale: 1.05 }}
                   style={{ display: "inline-block" }}
-                > Angular</motion.span>. 
-                Skilled in API integration, I have developed responsive and user-friendly websites during my internship, 
-                sharpening my ability to build modern web applications.
+                > Angular</motion.span>, 
+                <motion.span
+                  className="text-indigo-600 dark:text-indigo-400 font-semibold"
+                  whileHover={{ scale: 1.05 }}
+                  style={{ display: "inline-block" }}
+                > PHP</motion.span>, and 
+                <motion.span
+                  className="text-green-600 dark:text-green-400 font-semibold"
+                  whileHover={{ scale: 1.05 }}
+                  style={{ display: "inline-block" }}
+                > Laravel</motion.span>. 
+                I enjoy building responsive interfaces, integrating APIs, and creating scalable backend solutions that support real business needs.
               </motion.p>
               
               <motion.p
@@ -89,14 +98,16 @@ export default function About() {
                 viewport={{ once: true }}
                 className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-8"
               >
-                I also have hands-on experience with <motion.span
+                I also work with <motion.span
                   className="text-blue-600 dark:text-blue-400 font-semibold"
                   whileHover={{ scale: 1.05 }}
                   style={{ display: "inline-block" }}
-                >React Native</motion.span>, 
-                contributing to the development of responsive and interactive mobile applications. My focus is on writing 
-                clean, efficient, and scalable code, while continuously exploring modern technologies to improve workflows 
-                and enhance user experiences.
+                >React Native</motion.span> and 
+                <motion.span
+                  className="text-yellow-600 dark:text-yellow-400 font-semibold"
+                  whileHover={{ scale: 1.05 }}
+                  style={{ display: "inline-block" }}
+                >Python</motion.span> to develop efficient digital products across web and mobile platforms. My focus is on writing clean, maintainable code and delivering solutions that combine strong user experience with reliable backend performance.
               </motion.p>
 
               <div className="grid md:grid-cols-3 gap-6">
